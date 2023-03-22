@@ -1,1 +1,3 @@
 # Servicios-de-Internet
+
+Este proyecto ofrece un servicio para filtrar canciones del género pop según el álbum al que pertenecen y su país. Se mostraban todos los países en los que había algún álbum, todos los álbumes de cada país con sus distintos atributos, y por último, todas las canciones del género pop de cada álbum. Todas ellas también venían acompañadas por sus propiedades. Toda la información tenía que ser extraída de documentos xml, los cuales fueron parseados. Se tenía que descartar todos los documentos que no fuesen sintácticamente correctos o que estuviesen fuera del rango de años requerido.
